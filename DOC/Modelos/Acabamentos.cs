@@ -1,6 +1,6 @@
 public class Acabamento : Pessoa
 {
-
+    
  string CPF;
 
  public void GetCPF ()
@@ -10,7 +10,7 @@ public class Acabamento : Pessoa
 }
 public void SetCPF (string n)
 {
-    CPF=cpf;
+    CPF=string n;
 }
 
 }
